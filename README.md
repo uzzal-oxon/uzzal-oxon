@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/uzzal_kas" target="blank"><img src="https://img.shields.io/twitter/follow/uzzal_kas?logo=twitter&style=for-the-badge" alt="uzzal_kas" /></a> </p>
 
-- 🔭 I’m currently working on **metagenomics, transcriptomics and AI tools**
+- 🔭 I’m currently working on **biophysics, structural biology, proteomics, metagenomics, transcriptomics and AI tools**
 
 - 🌱 I’m currently learning **tools development**
 
